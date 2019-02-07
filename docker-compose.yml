@@ -1,0 +1,6 @@
+version: "3"
+
+services:
+  linkchecker:
+    build: .
+    image: citize madvice/linkchecker
